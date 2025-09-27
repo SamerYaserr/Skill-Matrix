@@ -125,10 +125,6 @@ This project provides a scalable foundation for corporate learning platforms wit
 
 ```
 
-## 🏗️ System Architecture
-
-![System Architecture](./assets/system-architecture.png)
-
 ## Getting Started
 
 ### Prerequisites
